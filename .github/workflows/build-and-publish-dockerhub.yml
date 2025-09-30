@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  IMAGE_NAME: my-python-app
+  IMAGE_NAME: r82labs-analytics-service
 
 jobs:
   build-and-publish:
